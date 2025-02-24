@@ -4,7 +4,7 @@ This project is a **content-based recommendation system** for video games. Given
 
 ## Features
 
-- **Input**: A video game title (e.g., "Call of Duty").
+- **Input**: A video game title (e.g., "Call of Duty: Black Ops").
 - **Output**: A list of similar video games ranked by similarity score.
 - **Similarity Calculation**: Uses **cosine similarity** to measure similarity between games based on their features.
 
