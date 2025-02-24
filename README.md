@@ -61,3 +61,6 @@ Input:
 
 ```bash
 Enter a game name: Grand Theft Auto V
+```
+
+### Video Demo: [LINK](https://youtu.be/7MPFRs_u1pM)
